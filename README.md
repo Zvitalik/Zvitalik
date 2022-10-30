@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zvitalik
-- 👀 I’m interested in  програмирование
-- 🌱 I’m currently learning  питону
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
